@@ -1,0 +1,109 @@
+patient_id,triage,length_of_stay_minutes,postcode,age,gender,suburb,co,o3,no2,so2,ppm10,visibility_reduction,aqi,precipitation,relativehumidity,vapourpressure,windspeed,winddirection,maxwindspeed,asthma
+PJY1ZY7M,Triage 3 - Urgent,166,3030,30 to 34,Female,Werribee,0.4,20,13,0,12.9,0.4,20,0,76,11.2,1.5,160,2.1,Yes
+PTX0ZI2D,Triage 3 - Urgent,979,3030,00 to 04,Male  ,Pt Cook,0.1,12,6,2,4.5,0.27,12,0,77,14.4,10.8,140,13.9,Yes
+PVX0GR6F,Triage 3 - Urgent,38,3030,20 to 24,Male  ,Werribee South,0.2,11,9,1,22.3,0.71,30,0,74,13.8,7.2,110,9.8,Yes
+WOE7QE3M,Triage 3 - Urgent,184,3753,05 to 09,Male  ,Beveridge,0.2,33,2,0,8.7,0.35,33,0,17,11.6,5.1,170,7.2,Yes
+WYU6CP0J,Triage 3 - Urgent,37,3036,05 to 09,Male  ,Keilor,0.6,4,15,0,17.7,1.4,60,0,86,11.9,1.5,100,2.1,Yes
+PYU6ZP0K,Triage 3 - Urgent,372,3085,05 to 09,Male  ,Macleod,0.2,15,12,0,10.6,0.3,15,0,73,11.6,7.7,250,13.4,Yes
+WOR2YI2K,Triage 3 - Urgent,392,3095,05 to 09,Male  ,Eltham,1,1,14,0,11.8,0.58,25,0.2,99,11.1,0,0,0,Yes
+PTF8YO1K,Triage 4 - Semi Urgent,258,3211,00 to 04,Male  ,Little River,0.1,12,6,2,4.5,0.27,12,0,77,14.4,10.8,140,13.9,Yes
+GYX4CQ4D,Triage 3 - Urgent,181,3094,20 to 24,Male  ,Montmorency,0.2,4,7,0,15.1,0.41,19,0,79,13.3,2.1,170,3.6,Yes
+PBU6MQ4S,Triage 2 - Emergency,97,3073,30 to 34,Male  ,Reservoir,0.2,12,6,0,11.9,0.38,16,8.4,99,11.2,2.1,280,3.1,Yes
+PWR2BO1D,Triage 3 - Urgent,491,3073,00 to 04,Female,Reservoir,0.2,28,6,0,31.4,0.73,39,0,69,20.6,3.6,230,5.1,Yes
+PJX4ZP0S,Triage 4 - Semi Urgent,101,3073,15 to 19,Female,Reservoir,0.2,12,9,0,14,1.29,55,0.4,100,17.6,4.1,220,6.7,Yes
+PTR2HO1K,Triage 3 - Urgent,152,3764,35 to 39,Female,Kilmore,0.3,19,6,0,3.8,0.32,19,0.2,98,6.5,0,0,0,Yes
+PTR2HE3A,Triage 4 - Semi Urgent,277,3029,60 to 64,Female,Tarneit,0.1,12,11,0,7.8,0.3,13,0.2,95,8.9,3.1,10,3.6,Yes
+PBX4HU8A,Triage 3 - Urgent,173,3029,20 to 24,Male  ,Hoppers Crossing,0.3,10,6,1,8.7,0.31,13,8.8,90,16.6,3.6,180,4.1,Yes
+PVX0GY7K,Triage 3 - Urgent,164,3029,55 to 59,Male  ,Hoppers Crossing,0.1,17,3,0,12.4,0.34,17,0,68,11.4,5.7,210,7.7,Yes
+PWE7UQ4A,Triage 3 - Urgent,139,3029,10 to 14,Female,Hoppers Crossing,0.2,22,4,0,11.6,0.4,22,2.8,73,9.2,6.2,190,9.3,Yes
+PTQ3HE3L,Triage 4 - Semi Urgent,151,3099,20 to 24,Male  ,Hurstbridge,0.6,1,28,3,37.7,1.31,56,0,81,10,0.5,180,2.1,Yes
+BMN5BI2G,Triage 5 - Non Urgent,149,3223,45 to 49,Female,Portarlington,0.7,1,25,2,30.7,0.64,38,0,64,10.4,0,0,0,Yes
+KWE7QI2H,Triage 2 - Emergency,246,3223,90 to 94,Female,Portarlington,0.2,8,20,1,27.6,0.54,35,1.4,65,7.3,0,0,0,Yes
+IVP9UU8L,Triage 2 - Emergency,315,3223,45 to 49,Female,Portarlington,1.2,3,22,6,17.6,0.75,32,0,67,10.5,2.1,60,3.1,Yes
+WWQ3BI2M,Triage 3 - Urgent,202,3223,00 to 04,Female,Portarlington,0.1,13,6,0,9.7,0.27,13,1.4,77,11.3,1.5,280,2.6,Yes
+RJQ3ZO1D,Triage 4 - Semi Urgent,329,3223,50 to 54,Female,Indented Head,0.9,3,23,1,18.4,0.63,27,0,68,11.2,0,0,1.5,Yes
+PVY1MY7F,Triage 3 - Urgent,239,3039,40 to 44,Male  ,Moonee Ponds,0,23,1,0,2.9,0.23,23,0,61,7.4,5.1,330,8.7,Yes
+PBE7HU8S,Triage 2 - Emergency,605,3082,20 to 24,Female,Mill Park,0.2,7,8,0,8.6,0.39,17,8.4,92,10.2,2.6,260,3.1,Yes
+PVX0QQ4G,Triage 3 - Urgent,337,3048,20 to 24,Male  ,Coolaroo,0.2,11,9,0,21.9,0.26,27,0,37,15.2,3.1,110,5.7,Yes
+PJU6QO1S,Triage 4 - Semi Urgent,162,3033,55 to 59,Female,Keilor East,0,17,8,0,20.9,0.42,26,0,55,11.8,5.7,200,8.2,Yes
+PMQ3QP0D,Triage 3 - Urgent,74,3037,00 to 04,Male  ,Taylors Hill,0.6,21,9,0,11.9,0.37,21,0,30,6.3,5.7,30,7.7,Yes
+WOY1YU8S,Triage 2 - Emergency,259,3037,05 to 09,Female,Hillside,1,3,25,3,35.2,1.47,63,3.8,96,13.3,5.1,80,8.7,Yes
+WAF8UU8M,Triage 4 - Semi Urgent,850,3037,60 to 64,Female,Sydenham,0.2,26,3,0,13.7,0.36,26,0,48,7.5,3.1,230,4.1,Yes
+PME7MY7A,Triage 3 - Urgent,176,3056,20 to 24,Female,Brunswick,0.2,7,16,0,14.5,0.78,33,0,94,13.8,1.5,120,2.6,Yes
+PVU6HE3L,Triage 3 - Urgent,89,3076,10 to 14,Male  ,Epping,0.2,27,10,0,41.8,0.82,52,0,76,13,3.1,100,5.7,Yes
+PWN5GR6S,Triage 4 - Semi Urgent,292,3055,25 to 29,Female,Brunswick West,0,17,2,0,17.5,0.34,22,0,44,9.1,7.7,180,11.8,Yes
+PBY1YY7S,Triage 3 - Urgent,54,3024,15 to 19,Female,Wyndham Vale,0.2,30,4,0,70.2,0.52,88,0,78,21.2,8.7,240,10.3,Yes
+PBE7ME3G,Triage 3 - Urgent,293,3024,25 to 29,Male  ,Wyndham Vale,0.1,12,15,0,7.4,0.32,14,2.6,84,12.2,7.7,250,10.3,Yes
+PWX0GY7D,Triage 3 - Urgent,799,3024,05 to 09,Male  ,Wyndhamvale,0.1,12,19,1,8,0.34,16,0,84,11.8,3.6,110,5.1,Yes
+PWQ3HW5S,Triage 4 - Semi Urgent,312,3083,05 to 09,Male  ,Bundoora,0.1,24,5,0,19.7,0.76,32,0,90,18.5,0,0,0,Yes
+PBU6DO1G,Triage 3 - Urgent,140,3083,15 to 19,Male  ,Bundoora,0,3,16,0,10.7,0.31,13,0.2,72,8.9,0,0,0,Yes
+PJR2ZU8L,Triage 3 - Urgent,226,3752,05 to 09,Female,South Morang,0.2,23,4,0,6.2,0.36,23,29,79,19.9,5.1,280,8.2,Yes
+WDQ3DY7G,Triage 2 - Emergency,133,3752,30 to 34,Female,South Morang,0.1,30,2,0,16.5,0.39,30,0,40,19.9,3.1,150,5.7,Yes
+WDQ3DY7G,Triage 2 - Emergency,420,3752,30 to 34,Female,South Morang,0.1,25,3,0,15.5,0.41,25,0,64,12,5.1,180,7.2,Yes
+WOP9QY7S,Triage 4 - Semi Urgent,38,3658,30 to 34,Female,Flowerdale,0.2,12,3,1,14.5,0.39,18,0,69,10.3,1.5,280,2.1,Yes
+PME7YT3G,Triage 5 - Non Urgent,228,3032,25 to 29,Male  ,Travancore,0.2,14,15,2,41.4,0.6,52,0,49,12.6,2.1,190,3.6,No
+PYN5ZW5A,Triage 2 - Emergency,209,3030,15 to 19,Male  ,Werribee,0.2,19,8,0,11.1,0.35,19,0,66,9.5,10.3,220,13.9,No
+PYE7HI2A,Triage 3 - Urgent,317,3030,10 to 14,Male  ,Werribee Sth,0.2,26,6,3,18.1,0.32,26,0,73,11.6,7.2,250,9.3,No
+PWP9MQ4L,Triage 4 - Semi Urgent,142,3030,35 to 39,Female,Point Cook,0.1,20,5,0,6.9,0.27,20,0.2,90,11.3,10.3,230,14.4,No
+PBQ3BE3F,Triage 3 - Urgent,83,3030,05 to 09,Female,Werribee,0.1,22,1,0,18.9,0.53,24,0,66,15.1,7.2,240,9.3,No
+RDQ3HI2H,Triage 5 - Non Urgent,138,3040,70 to 74,Female,Aberfeldie,0,15,5,2,21.2,0.36,27,0.2,69,9.9,3.6,250,6.7,No
+PWR2GY7S,Triage 4 - Semi Urgent,121,3040,05 to 09,Female,Essendon,0.1,40,5,2,23.9,1.02,43,0,80,25,2.1,140,3.1,No
+PBF8BR6L,Triage 3 - Urgent,191,3072,45 to 49,Female,Preston,0.4,5,19,0,8.5,0.46,20,0.6,100,13.7,2.1,360,2.6,No
+PTQ3ZU8K,Triage 3 - Urgent,449,3072,35 to 39,Male  ,Preston,0.5,18,9,0,9.4,0.58,25,0,77,12.3,1,110,2.1,No
+PJY1DO1S,Triage 3 - Urgent,127,3041,30 to 34,Female,Strathmore,0,9,5,0,20.9,0.92,39,0,61,18.8,2.1,120,4.6,No
+PJQ3MI2L,Triage 4 - Semi Urgent,211,3095,25 to 29,Male  ,Eltham,0.1,16,2,2,10.2,0.32,16,0.2,62,10.8,2.1,170,3.1,No
+GAN5BI2M,Triage 4 - Semi Urgent,83,3211,55 to 59,Female,Little River,0.3,8,16,1,9.7,0.42,18,0,93,17.2,8.2,110,11.3,No
+PJU6CY7A,Triage 4 - Semi Urgent,124,3211,05 to 09,Male  ,Little River,0.2,20,7,1,15.8,0.47,20,0,83,13.7,5.1,110,6.7,No
+PWR2GU8A,Triage 4 - Semi Urgent,80,3211,20 to 24,Male  ,Little River,0.1,33,16,7,45.4,1.3,57,0,74,19.5,6.2,120,8.2,No
+PVX4HT3A,Triage 2 - Emergency,290,3211,10 to 14,Male  ,Little River,0.5,15,12,0,14.6,0.48,20,0.2,78,12.7,2.1,180,2.6,No
+HAP9GR6H,Triage 5 - Non Urgent,87,3211,15 to 19,Male  ,Little River,0.1,17,5,1,17.8,0.44,22,0,63,13,1,50,2.1,No
+KAR2QI2J,Triage 4 - Semi Urgent,244,3211,15 to 19,Female,Little River,0.1,18,1,0,33.6,0.77,42,0,76,17.5,6.2,160,7.7,No
+HOY1YU8M,Triage 4 - Semi Urgent,168,3211,10 to 14,Male  ,Little River,0.5,15,12,0,14.6,0.48,20,0.2,78,12.7,2.1,180,2.6,No
+HDX4MP0G,Triage 4 - Semi Urgent,292,3211,05 to 09,Female,Little River,0.1,27,5,1,60.6,0.38,76,4.2,87,10.3,13.4,230,18,No
+BJE7DT3A,Triage 5 - Non Urgent,127,3211,60 to 64,Female,Little River,0.1,23,4,1,20.1,0.47,25,0,63,12.7,4.1,130,5.7,No
+PBR2GQ4G,Triage 4 - Semi Urgent,85,3093,10 to 14,Female,Lower Plenty,0.2,19,2,0,16.3,0.82,35,0,63,14.9,2.6,200,3.6,No
+PVY1CQ4L,Triage 4 - Semi Urgent,128,3093,20 to 24,Female,Lower Plenty,0.4,11,2,0,4,0.22,11,0,96,17.3,1.5,250,2.1,No
+WDY1ME3J,Triage 4 - Semi Urgent,158,3094,00 to 04,Male  ,Montmorency,0.1,18,9,1,19.3,0.31,24,0,31,7,5.7,260,8.2,No
+PBU6HY7D,Triage 3 - Urgent,397,3028,15 to 19,Female,Altona Meadows,0.1,24,4,2,9.2,0.33,24,0.2,47,8.5,4.6,160,9.3,No
+PWN5YP0A,Triage 5 - Non Urgent,79,3073,35 to 39,Female,Reservoir,0.4,16,0,0,12.3,0.35,16,0,53,9.5,6.7,200,10.3,No
+PJX4HY7F,Triage 4 - Semi Urgent,347,3034,35 to 39,Male  ,Avondale Heights,0,17,3,0,20.1,0.37,25,0,67,10.4,3.1,110,4.6,No
+WDX4DQ4A,Triage 3 - Urgent,501,3034,50 to 54,Female,Avondale Heights,0.3,27,4,0,27.5,0.4,34,0,33,6.4,2.1,340,3.6,No
+PMR2HR6F,Triage 3 - Urgent,257,3029,45 to 49,Male  ,Hoppers Crossing,0.1,20,7,0,15.3,0.39,20,0,63,11.7,6.7,20,8.7,No
+PMF8HU8G,Triage 4 - Semi Urgent,121,3029,10 to 14,Female,Hoppers Crossing,0.4,12,14,1,50.5,0.58,63,0,59,12.7,3.1,350,5.1,No
+PVF8GY7M,Triage 4 - Semi Urgent,135,3029,10 to 14,Female,Truganina,0.1,18,3,0,21.8,0.37,27,0,33,7.7,8.2,160,11.8,No
+HOR2UQ4L,Triage 4 - Semi Urgent,96,3223,05 to 09,Female,St Leonards,0.5,60,14,1,68.5,1.73,86,0,46,15.7,1.5,240,2.6,No
+HAQ3GQ4G,Triage 3 - Urgent,385,3223,65 to 69,Female,St Leonards,0,15,3,0,3.1,0.27,15,0.2,49,10.4,2.1,270,5.1,No
+WOF8UY7K,Triage 4 - Semi Urgent,307,3223,80 to 84,Female,Portarlington,0,19,6,2,12.6,0.44,19,0,67,19.5,1,30,2.6,No
+KOP9UT3G,Triage 4 - Semi Urgent,174,3223,15 to 19,Male  ,Portarlington,0.3,18,3,1,8.2,0.32,18,0,61,13,1.5,300,3.6,No
+HDU6UR6M,Triage 4 - Semi Urgent,223,3223,10 to 14,Male  ,St Leonards,0.1,25,7,1,22.6,0.27,28,0,48,7.5,3.6,300,6.2,No
+WDQ3HO1K,Triage 4 - Semi Urgent,259,3223,70 to 74,Female,St Leonards,0,22,4,0,17.9,0.32,22,0.2,62,9.6,2.6,70,4.1,No
+HYY1UE3K,Triage 4 - Semi Urgent,178,3223,15 to 19,Male  ,Indented Head,0.2,21,9,0,13.5,0.38,21,0.2,51,7.8,3.6,260,7.7,No
+KOR2BI2M,Triage 3 - Urgent,276,3223,65 to 69,Female,Portarlington,0.1,27,5,1,60.6,0.38,76,0,35,5.7,4.6,280,7.7,No
+HVX0BE3S,Triage 2 - Emergency,809,3223,55 to 59,Male  ,St Leonards,0.1,0,19,1,17.5,0.29,22,0,55,9.3,0,0,0,No
+KOR2HY7G,Triage 3 - Urgent,197,3223,10 to 14,Female,Portarlington,0.1,23,2,0,15.2,0.35,23,0,65,12.3,1.5,10,2.6,No
+WJY1HT3M,Triage 4 - Semi Urgent,187,3223,05 to 09,Female,Indented Head,0,19,5,5,40.1,0.68,50,0,56,19.4,1,330,3.6,No
+KWP9QT3H,Triage 4 - Semi Urgent,210,3223,80 to 84,Female,Portarlington,0.7,37,18,2,31.4,1.14,49,0,32,12.4,1.5,230,2.6,No
+BOX0ZU8F,Triage 5 - Non Urgent,91,3223,65 to 69,Male  ,Portarlington,0,15,3,0,3.1,0.27,15,0.2,49,10.4,2.1,270,5.1,No
+WOE7HI2A,Triage 5 - Non Urgent,119,3046,35 to 39,Male  ,Oak Park,0.2,20,5,1,13.6,0.48,20,0.2,97,21.2,1.5,130,2.6,No
+WDF8DY7J,Triage 3 - Urgent,202,3046,10 to 14,Female,Glenroy,0,23,10,0,29.6,0.61,37,0,44,5.6,5.1,300,8.7,No
+PBE7BR6K,Triage 4 - Semi Urgent,262,3038,60 to 64,Female,Taylors Lakes,0.1,28,7,0,15.7,0.36,28,0,32,6.4,2.6,120,3.6,No
+PWR2CU8M,Triage 3 - Urgent,211,3038,10 to 14,Female,Taylors Lakes,0.1,40,5,2,23.9,1.02,43,0,18,9.4,7.2,350,9.8,No
+PWX0QE3J,Triage 5 - Non Urgent,153,3048,45 to 49,Male  ,Meadow Heights,0.5,15,11,0,9.3,0.31,15,0,81,8.6,0,0,1,No
+PJU6QQ4A,Triage 3 - Urgent,110,3048,05 to 09,Male  ,Meadow Heights,0.2,15,13,1,20.5,0.4,26,0,62,12,4.1,200,6.2,No
+PYX0MU8L,Triage 5 - Non Urgent,105,3840,10 to 14,Male  ,Morwell,0.3,32,3,1,16.9,0.38,32,0,80,11.6,3.1,280,4.1,No
+PWY1ZY7S,Triage 5 - Non Urgent,150,3056,10 to 14,Male  ,Brunswick,0.1,40,5,2,23.9,1.02,43,0,80,25,2.1,140,3.1,No
+PWP9QI2J,Triage 2 - Emergency,615,3055,60 to 64,Male  ,Brunswick West,0.1,21,16,0,16.8,0.55,23,0,46,9.3,2.1,150,3.1,No
+WON5UU8D,Triage 4 - Semi Urgent,61,3089,10 to 14,Male  ,Diamond Creek,0.5,47,8,0,35,1.11,47,0,30,12,2.6,180,5.1,No
+KJY1GY7H,Triage 4 - Semi Urgent,280,3042,25 to 29,Male  ,Airport West,0,35,7,1,30.2,0.72,38,0,74,18.7,2.6,80,4.1,No
+PWY1ZI2H,Triage 3 - Urgent,200,3084,10 to 14,Female,Heidelberg,0.1,52,0,0,14.3,0.44,52,0,26,15.8,2.6,140,4.6,No
+WOP9YP0J,Triage 4 - Semi Urgent,266,3084,35 to 39,Male  ,Rosanna,0.1,14,2,0,13.2,0.3,17,0.6,50,7.8,7.2,240,12.3,No
+PJX4UW5S,Triage 3 - Urgent,177,3088,20 to 24,Male  ,Greensborough,0.2,19,2,3,18.7,0.4,23,0.2,42,10.2,4.6,130,7.2,No
+PWR2UW5K,Triage 4 - Semi Urgent,65,3088,10 to 14,Female,Greensborough,0.2,43,2,0,32,0.67,43,0,50,21.2,2.6,160,6.7,No
+WOY1MU8A,Triage 4 - Semi Urgent,116,3088,05 to 09,Male  ,Greensborough,0.1,23,7,0,3.8,0.37,23,0,66,10,6.2,340,10.8,No
+PJN5BW5H,Triage 4 - Semi Urgent,97,3024,55 to 59,Female,Wyndham Vale,0.1,26,3,1,5.7,0.46,26,0,72,13.8,4.6,120,6.7,No
+PVP9ZE3J,Triage 4 - Semi Urgent,163,3024,30 to 34,Male  ,Wyndham Vale,0.2,13,7,1,26.2,0.63,33,0,74,13.9,7.7,120,11.8,No
+HAY1BR6L,Triage 4 - Semi Urgent,65,3024,55 to 59,Male  ,Wyndhamvale,0.3,10,15,1,10.6,0.41,17,0,90,17.1,8.7,120,11.3,No
+WDX4BT3K,Triage 3 - Urgent,181,3043,30 to 34,Female,Gladstone Park,0.1,21,12,0,21.9,0.4,27,0,39,7.1,3.6,90,5.7,No
+PME7QT3K,Triage 4 - Semi Urgent,270,3754,10 to 14,Female,Doreen,0.4,13,20,1,34.8,0.68,44,0,53,11.7,3.1,190,4.6,No
+PJY1UI2L,Triage 4 - Semi Urgent,95,3754,35 to 39,Male  ,Mernda,0.1,15,2,0,11.7,0.67,29,0.2,83,18.4,3.1,210,5.1,No
+PBX4GO1L,Triage 4 - Semi Urgent,912,3013,15 to 19,Female,Yarraville,0.1,7,14,0,9.8,0.42,18,0.2,69,17.1,4.1,100,6.2,No
